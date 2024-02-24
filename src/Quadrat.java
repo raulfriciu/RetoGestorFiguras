@@ -11,4 +11,7 @@ public class Quadrat extends Rectangle{
     public double getL1() {
         return super.getL1();
     }
+    public String toString() {
+        return "un Quadrat" ;
+    }
 }

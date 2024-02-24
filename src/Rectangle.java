@@ -13,4 +13,7 @@ public class Rectangle extends Figura{
         return l1;
     }
 
+    public String toString() {
+        return "un Rectangle";
+    }
 }

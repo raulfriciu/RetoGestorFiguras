@@ -8,4 +8,9 @@ public class TriangleEq extends Figura{
     public double area(){
         return (this.b*this.h)/2;
     }
+
+    public String toString() {
+        return "un Triangle";
+    }
+
 }
